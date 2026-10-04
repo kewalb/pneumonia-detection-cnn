@@ -8,8 +8,6 @@ from PIL import Image
 
 # Configuration
 MODEL_PATH = (
-    "/content/drive/MyDrive/"
-    "GREAT LEARNING/Capstone/pneumonia_cnn/"
     "best_pneumonia_model.keras"
 )
 
